@@ -17,7 +17,7 @@ print(f"Last fruit: {fruits[4]}")
 print(fruits[-1])  # It will print the last one
 print(fruits[-2])
 print(fruits[::-1]) # It will reverse the list
-
+print("Mrinmoy")
 print(fruits[::-2])
 print(fruits[::-1][::-1])
 
